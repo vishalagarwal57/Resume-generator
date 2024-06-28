@@ -1,0 +1,124 @@
+/* General Styles */
+/* #cv-form{
+    display: none;
+} */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0px 50px 50px 50px;
+  }
+ 
+  /* .container {
+    margin-top: 20px;
+    padding: 20px; 
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  } */
+  
+  h1 {
+    color: #343a40;
+  }
+  
+  p {
+    color: #6c757d;
+  }
+  
+  .form-group label {
+    font-weight: bold;
+    color: #495057;
+  }
+  
+  .form-control {
+    border-radius: 0.25rem;
+    border: 1px solid #ced4da;
+  }
+  
+  textarea.form-control {
+    resize: vertical;
+  }
+  
+  button.btn {
+    border-radius: 0.25rem;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
+  /* Custom Styles */
+  .text-center {
+    text-align: center;
+  }
+  
+  .my-2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .my-3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .mt-2 {
+    margin-top: 0.5rem;
+  }
+  
+  .mt-3 {
+    margin-top: 1rem;
+  }
+  
+  .text-secondary {
+    color: #6c757d;
+  }
+  
+  textarea.weField,
+  textarea.eqField {
+    margin-top: 0.5rem;
+  }
+  
+  #weAddButton,
+  #eqAddButton {
+    margin-top: 1rem;
+  }
+  
+  .btn-sm {
+    font-size: 0.875rem;
+    padding: 0.25rem 0.5rem;
+  }
+  
+  .btn-lg {
+    font-size: 1.25rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mt-2 {
+    margin-top: 0.5rem;
+  }
+  
+  .mt-3 {
+    margin-top: 1rem;
+  }
+  .myimage{
+    /* border: 1px solid red; */
+    border-radius: 50px;
+    width: 200px;
+  }
+  .background{
+    background-color: aqua;
+  }
